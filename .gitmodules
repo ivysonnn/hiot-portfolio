@@ -1,0 +1,6 @@
+[submodule "esp32-two-mode-led-intensifier"]
+	path = esp32-two-mode-led-intensifier
+	url = https://github.com/ivysonnn/esp32-two-mode-led-intensifier.git
+[submodule "esp32-ultrasonic-proximity-sensor"]
+	path = esp32-ultrasonic-proximity-sensor
+	url = https://github.com/ivysonnn/esp32-ultrasonic-proximity-sensor.git
